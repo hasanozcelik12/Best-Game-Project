@@ -3,4 +3,4 @@
 ### Pokemon pictures, ID numbers, Pokemon names, powers and type were taken by API and used in related fields.
 
 ## Screen
-! []screen.gif
+![](screen.gif)
